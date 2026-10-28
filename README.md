@@ -19,7 +19,4 @@
 ---
 
 ## 🚀 كيفية التشغيل محلياً
-
-1. قم بتثبيت المكتبات المطلوبة:
-```bash
-pip install streamlit
+[رابط التطبيق الحي](https://mental-health-analytics-p3xb5qd4zxcw47ewrvkfbj.streamlit.app)
